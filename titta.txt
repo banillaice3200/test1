@@ -1,1 +1,7 @@
 Mind Burst (Recharge 5–6). Intelligence Saving Throw: DC 17, each creature in a 40-foot Emanation originating from the mind flayer. Failure: 41 (8d8 + 5) Psychic damage, and the target has the Stunned condition until the end of the mind flayer's next turn. Success: Half damage only.
+
+Spellcasting. The mind flayer casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 17):
+
+At will: Detect Magic, Detect Thoughts, Disguise Self, Mage Hand (the hand is Invisible)
+
+1/day each: Clairvoyance, Dimension Door, Fireball (level 5 version), Lightning Bolt (level 5 version), Plane Shift (self only), Sending
